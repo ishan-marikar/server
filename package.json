@@ -14,7 +14,7 @@
     "book-raven": "1.1.0",
     "bookrc": "0.0.1",
     "debug": "2.2.0",
-    "express": "4.13.3",
+    "express": "4.15.5",
     "http-proxy": "1.12.0",
     "localenv": "0.2.2",
     "on-finished": "2.3.0",
